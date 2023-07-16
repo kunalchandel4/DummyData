@@ -15,6 +15,7 @@
 ### Stock Item
 
 * JSON Data
+  
 {
 "name":"Tomato",
 "quantity":200,
@@ -27,6 +28,7 @@
 ### Customer
 
 * JSON Data
+  
 {
 "name": "Ramesh",
 "email": "ramesh@gmail.com",
